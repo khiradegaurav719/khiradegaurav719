@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋! My name is Gaurav... and I'm a VLSI entusiast Engineer, from IIIT Hyderabad.</h2>
 
-<h3 align="center">🧠 VLSI Enthusiast @ IIIT Hyderabad | Building logic that thinks faster than I do ⚙️ 💡 Passionate about chip design, digital systems & open hardware</h3>
+<h3 align="center">🧠  MS in ECE 2027(Hopefully) | Building logic that thinks faster than I do 💡 Passionate about chip design, digital systems & open hardware ⚙️ </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khiradegaurav719&label=Profile%20views&color=0e75b6&style=flat" alt="khiradegaurav719" /> </p>
 
