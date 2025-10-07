@@ -7,7 +7,7 @@
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khiradegaurav719" alt="khiradegaurav719" /></a> --> </p> 
 
 - 🌱 I’m currently learning **Hardware for AI and Digital VLSI Design**
-
+ 
 - 📄 Know about my experiences [Click Here...!!](https://drive.google.com/file/d/1nCNemtGX-pYwKznbdhRoZ0-9JZg1DaDE/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
